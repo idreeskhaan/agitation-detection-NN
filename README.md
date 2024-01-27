@@ -2,5 +2,5 @@
 
 ### Watch Demo Video
 
-![demo](./demo.mp4)
+[demo](https://github.com/idreeskhaan/agitation-detection-NN/blob/main/demo.mp4)https://github.com/idreeskhaan/agitation-detection-NN/blob/main/demo.mp4)
 
