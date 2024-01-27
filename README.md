@@ -2,5 +2,5 @@
 
 ### Watch Demo Video
 
-![demo](/demo.mp4)
+![demo](./demo.mp4)
 
