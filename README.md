@@ -1,4 +1,5 @@
-# agitation-detection-NN
+
+# Agitation detection system using OpenPose and DeepSORT
 
 <p>Agitation is a common phenomenon in people
 suffering from dementia which is characterized by harmful
@@ -26,7 +27,6 @@ location and time of the agitated event if detected. </p>
 
 
 ### See the step by step Code
-
 ```
 main.ipynb
 ```
@@ -36,4 +36,3 @@ main.ipynb
 ```
 demo.mp4
 ```
-
