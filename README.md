@@ -23,7 +23,24 @@ Additionally, a web-based dashboard is also developed which has
 the functionality to inform the concerned authority about the
 location and time of the agitated event if detected. </p> 
 
+## Extract Skeleton KeyPoints using OpenPose and DeepSORT
+<img src="OpenPose.PNG" width="600px"> </img>
+
+## Design Rich Features from Skeleton KeyPoints
 <img src="skeletonModel.PNG"> </img>
+
+## Apply PCA to eliminate Redundant Features
+<img src="PCA.PNG" width="600px"> </img>
+
+## Apply Binary Classifiers using the 33 input features
+<img src="classifiers.PNG" width="600px"> </img>
+
+## Train the models
+<img src="Loss.PNG" width="600px"> </img>
+
+## Results for 4 binary classifiers
+<img src="results.PNG" width="600px"> </img>
+
 
 
 ### See the step by step Code
